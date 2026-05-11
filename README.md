@@ -3,7 +3,7 @@
 This repository contains my beginner Python projects created while learning Python programming.
 
 ## Projects
-- Calculator App
+- Price Giving App
 - Number Guessing Game
 - To-Do App
 
